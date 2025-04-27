@@ -5,11 +5,11 @@
 Sp25_21479_Group4
 
 ## Team Members 
-   1. Lauryn Stallworth 
-   2. Abby Poore
-   3. Claire 
-   4. Nick Weir 
-   5. Liam 
+   1. Lauryn Stallworth (@lauryn-stallworth)
+   2. Abby Poore (@abbypoore)
+   3. Claire Warren (@clairewarren8)
+   4. Liam Aiken (@liamaiken)
+   5. Nick Weir (@nick-weir)
 
 ## Dataset Description
 Our dataset tracks hate crimes that have been reported in the state of New York across various counties starting from 2010. We obtained this data set through the U.S Data Catalog (https://catalog.data.gov/dataset). Our dataset specifies different information about different hate crimes that have occurred, which includes the year it took place, the number of victims and offenders, the crime type(such as crime against persons or property crime), number of offenses, and the type of group they are targeting(such as Anti-Gay Male, Anti-Asian, Anti-Islamic, etc,). The County and Crime Type dimensions are both of string datatype. The Year dimension as well as the number of offenders, victims, and incidents are of number datatype. We decided to pivot these tables and created calculated fields for each subgroup. Pivoting the tables and creating calculated fields allowed us to be able to better analyze the data by looking at specific targeted groups and crime types. Overall, this dataset provides valuable insights into potential patterns and trends within hate crimes across New York State over time. The structure of our dataset helps to support meaningful visualizations that can be analyzed to identify a need to improve public policies, law enforcement efforts, and community support or education.
