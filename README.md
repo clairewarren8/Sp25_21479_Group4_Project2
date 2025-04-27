@@ -30,7 +30,11 @@ Which counties in New York State have reported the highest rates of hate crimes 
 ### Q1 Importance 
 To start off, it’s important to understand what bias motivation means. Bias motivation refers to the reason behind a hate crime or specifically, the offender’s prejudice against a victim because of who they are or the group they belong to. For example this could include race, religion, ethnicity, sexual orientation, gender identity, disability, or national origin. With this information in mind, this question is relevant because it allows us to understand where and why specific hate crimes occur. This information could be used to promote safety and identify certain groups that are particularly targeted or more vulnerable. Societal changes as well as current world issues may also be contributing factors that influence bias motivations towards certain groups. Law enforcement could also utilize this data to better allocate their resources in order to prepare and respond proactively. Creating educational and prevention programs in counties that have higher incident counts can be used to address certain biases towards different groups. Looking at this data over time can also help identify if policies, laws, or programs need improvement or if there may be a need for a change in strategy. 
 
-### Vizualizations
+### Q1 Vizualizations
+
+<img width="1466" alt="Screenshot 2025-04-27 at 15 07 49" src="https://github.com/user-attachments/assets/9e9350b2-9668-4636-bc7a-2caa40a107a9" />
+
+![Q1_2](https://github.com/user-attachments/assets/6a0b1211-1e0b-47b6-ba6c-e89b082468d6)
 
 
 
@@ -43,8 +47,11 @@ Which bias motivations in New York State report the highest rates of property cr
 ### Q2 Importance 
 This question matters because it helps uncover patterns in how and when certain communities are targeted through property-related hate crimes. Identifying which bias motivations are linked to higher rates of these incidents allows us to better understand the risks faced by specific groups. This is not just as individuals, but in the spaces they gather, organize, and build community. By analyzing when spikes occur, we can begin to anticipate periods of heightened risk and recommend proactive measures to protect these groups in shared settings like places of worship or community centers. Unlike unpredictable individual attacks, patterns in property-related crimes offer a bit clearer opportunity for strategic intervention. This kind of insight empowers local leaders, public safety officials, and advocacy organizations to take action when it matters most. They can offer protection, resources, and support during times when communities are most vulnerable.
 
-### Visualizations 
+### Q2 Visualizations 
+![Q1_1](https://github.com/user-attachments/assets/b352165e-23fa-48ed-8f31-c723e5acb504)
 
+
+![Q2_2](https://github.com/user-attachments/assets/93f725f7-1b77-4d0d-862b-c1307ad3e778)
 
 ### Q2 Analysis
 The data helps us understand whether or not hate crimes against Jewish people are attacked on a more property basis or if we can point to events that caused an outburst of hate. With this data we would be able to show that any time there is a major world event involving people of Jewish religion/ descent suggesting additional protection may be needed in New York as the population of Jewish people is around 1.4 Million in the state of New York. Many religious hate crimes happen in places of worship and with this data’s backing we can argue that synagogues would need added protection during these times. If an event like this happens again, we are able to provide more resources/assistance to those communities ensuring protection. We see significant spikes within Anti-Semitic crimes in 2012 and 2019, and continuous growth from 2021 to 2022, and external factors may be to blame such as the holocaust or the Israel-Palestine conflict. 
